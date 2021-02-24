@@ -1,0 +1,38 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:flowering_azalea"
+		},
+		"components": {
+			"minecraft:map_color": "#677e30",
+			"minecraft:destroy_time": 5,
+			"minecraft:block_light_absorption": 1,
+			"minecraft:friction": 0.7,
+			"minecraft:geometry": "geometry.template_azalea",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "flowering_azalea",
+					"render_method": "blend"
+				}
+			},
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"block_filter": [
+							"minecraft:dirt",
+							"minecraft:grass"
+						]
+					},
+					{
+						"allowed_faces": [
+							"down"
+						]
+					}
+				]
+			}
+		},
+		"events": {}
+	}
+}

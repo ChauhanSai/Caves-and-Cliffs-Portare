@@ -1,0 +1,370 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\blocks\\azalea.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "fb5ae124_b61c_4b61_bfb9_5adbca023e3c",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cscaves:azalea"
+						},
+						"components": {
+							"minecraft:map_color": "#677e30",
+							"minecraft:destroy_time": 5,
+							"minecraft:block_light_absorption": 1,
+							"minecraft:friction": 0.7,
+							"minecraft:geometry": "geometry.template_azalea",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "azalea",
+									"render_method": "blend"
+								}
+							},
+							"minecraft:placement_filter": {
+								"conditions": [
+									{
+										"block_filter": [
+											"minecraft:dirt",
+											"minecraft:grass"
+										]
+									},
+									{
+										"allowed_faces": [
+											"down"
+										]
+									}
+								]
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:azalea"
+							},
+							"components": {
+								"minecraft:map_color": "#677e30",
+								"minecraft:destroy_time": 5,
+								"minecraft:block_light_absorption": 1,
+								"minecraft:friction": 0.7,
+								"minecraft:geometry": "geometry.template_azalea",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "azalea",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"block_filter": [
+												"minecraft:dirt",
+												"minecraft:grass"
+											]
+										},
+										{
+											"allowed_faces": [
+												"down"
+											]
+										}
+									]
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:azalea"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:azalea"
+							},
+							"components": {
+								"minecraft:map_color": "#677e30",
+								"minecraft:destroy_time": 5,
+								"minecraft:block_light_absorption": 1,
+								"minecraft:friction": 0.7,
+								"minecraft:geometry": "geometry.template_azalea",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "azalea",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"block_filter": [
+												"minecraft:dirt",
+												"minecraft:grass"
+											]
+										},
+										{
+											"allowed_faces": [
+												"down"
+											]
+										}
+									]
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:map_color": "#677e30",
+									"minecraft:destroy_time": 5,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.template_azalea",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "azalea",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"minecraft:dirt",
+													"minecraft:grass"
+												]
+											},
+											{
+												"allowed_faces": [
+													"down"
+												]
+											}
+										]
+									}
+								},
+								"data": "#677e30",
+								"key": "minecraft:map_color"
+							},
+							{
+								"data": "5",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"open": {
+									"minecraft:map_color": "#677e30",
+									"minecraft:destroy_time": 5,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.template_azalea",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "azalea",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"minecraft:dirt",
+													"minecraft:grass"
+												]
+											},
+											{
+												"allowed_faces": [
+													"down"
+												]
+											}
+										]
+									}
+								},
+								"data": "1",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"data": "0.7",
+								"key": "minecraft:friction"
+							},
+							{
+								"data": "geometry.template_azalea",
+								"key": "minecraft:geometry"
+							},
+							{
+								"open": {
+									"minecraft:map_color": "#677e30",
+									"minecraft:destroy_time": 5,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.template_azalea",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "azalea",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"minecraft:dirt",
+													"minecraft:grass"
+												]
+											},
+											{
+												"allowed_faces": [
+													"down"
+												]
+											}
+										]
+									}
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "azalea",
+												"render_method": "blend"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "azalea",
+											"render_method": "blend"
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:map_color": "#677e30",
+									"minecraft:destroy_time": 5,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.template_azalea",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "azalea",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"minecraft:dirt",
+													"minecraft:grass"
+												]
+											},
+											{
+												"allowed_faces": [
+													"down"
+												]
+											}
+										]
+									}
+								},
+								"key": "minecraft:placement_filter",
+								"children": [
+									{
+										"open": {
+											"conditions": [
+												{
+													"block_filter": [
+														"minecraft:dirt",
+														"minecraft:grass"
+													]
+												},
+												{
+													"allowed_faces": [
+														"down"
+													]
+												}
+											]
+										},
+										"key": "conditions",
+										"children": [
+											{
+												"open": [
+													{
+														"block_filter": [
+															"minecraft:dirt",
+															"minecraft:grass"
+														]
+													},
+													{
+														"allowed_faces": [
+															"down"
+														]
+													}
+												],
+												"children": [
+													{
+														"open": {
+															"block_filter": [
+																"minecraft:dirt",
+																"minecraft:grass"
+															]
+														},
+														"key": "block_filter",
+														"is_minified": true,
+														"children": [
+															"minecraft:dirt",
+															"minecraft:grass"
+														]
+													}
+												]
+											},
+											{
+												"open": [
+													{
+														"block_filter": [
+															"minecraft:dirt",
+															"minecraft:grass"
+														]
+													},
+													{
+														"allowed_faces": [
+															"down"
+														]
+													}
+												],
+												"children": [
+													{
+														"open": {
+															"allowed_faces": [
+																"down"
+															]
+														},
+														"key": "allowed_faces",
+														"is_minified": true,
+														"children": [
+															"down"
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,392 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\blocks\\spyglass.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "6d199ce2_fdda_4b03_976a_4efefb73ae6d",
+	"file_version": 5,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cscaves:spyglass_block"
+						},
+						"components": {
+							"minecraft:geometry": "geometry.spyglass",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "spyglass",
+									"render_method": "opaque"
+								}
+							},
+							"minecraft:placement_filter": {
+								"conditions": [
+									{
+										"block_filter": [
+											"minecraft:air"
+										]
+									}
+								]
+							},
+							"minecraft:on_interact": {
+								"event": "cscaves:zoom",
+								"target": "player"
+							}
+						},
+						"events": {
+							"cscaves:zoom": {
+								"add_mob_effect": {
+									"effect": "slowness",
+									"amplifier": 250,
+									"duration": 10
+								}
+							}
+						}
+					}
+				},
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cscaves:spyglass_block"
+						},
+						"components": {
+							"minecraft:geometry": "geometry.spyglass",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "spyglass",
+									"render_method": "opaque"
+								}
+							},
+							"minecraft:placement_filter": {
+								"conditions": [
+									{
+										"block_filter": [
+											"minecraft:air"
+										]
+									}
+								]
+							},
+							"minecraft:on_interact": {
+								"event": "cscaves:zoom",
+								"target": "player"
+							}
+						},
+						"events": {
+							"cscaves:zoom": {
+								"add_mob_effect": {
+									"effect": "slowness",
+									"amplifier": 250,
+									"duration": 10
+								}
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:spyglass_block"
+							},
+							"components": {
+								"minecraft:geometry": "geometry.spyglass",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "spyglass",
+										"render_method": "opaque"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"block_filter": [
+												"minecraft:air"
+											]
+										}
+									]
+								},
+								"minecraft:on_interact": {
+									"event": "cscaves:zoom",
+									"target": "player"
+								}
+							},
+							"events": {
+								"cscaves:zoom": {
+									"add_mob_effect": {
+										"effect": "slowness",
+										"amplifier": 250,
+										"duration": 10
+									}
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:spyglass_block"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:spyglass_block"
+							},
+							"components": {
+								"minecraft:geometry": "geometry.spyglass",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "spyglass",
+										"render_method": "opaque"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"block_filter": [
+												"minecraft:air"
+											]
+										}
+									]
+								},
+								"minecraft:on_interact": {
+									"event": "cscaves:zoom",
+									"target": "player"
+								}
+							},
+							"events": {
+								"cscaves:zoom": {
+									"add_mob_effect": {
+										"effect": "slowness",
+										"amplifier": 250,
+										"duration": 10
+									}
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "geometry.spyglass",
+								"key": "minecraft:geometry"
+							},
+							{
+								"open": {
+									"minecraft:geometry": "geometry.spyglass",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "spyglass",
+											"render_method": "opaque"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"minecraft:air"
+												]
+											}
+										]
+									},
+									"minecraft:on_interact": {
+										"event": "cscaves:zoom",
+										"target": "player"
+									}
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "spyglass",
+												"render_method": "opaque"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "spyglass",
+											"render_method": "opaque"
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:geometry": "geometry.spyglass",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "spyglass",
+											"render_method": "opaque"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"minecraft:air"
+												]
+											}
+										]
+									},
+									"minecraft:on_interact": {
+										"event": "cscaves:zoom",
+										"target": "player"
+									}
+								},
+								"key": "minecraft:placement_filter",
+								"children": [
+									{
+										"open": {
+											"conditions": [
+												{
+													"block_filter": [
+														"minecraft:air"
+													]
+												}
+											]
+										},
+										"key": "conditions",
+										"children": [
+											{
+												"open": [
+													{
+														"block_filter": [
+															"minecraft:air"
+														]
+													}
+												],
+												"children": [
+													{
+														"open": {
+															"block_filter": [
+																"minecraft:air"
+															]
+														},
+														"key": "block_filter",
+														"is_minified": true,
+														"children": [
+															"minecraft:air"
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:geometry": "geometry.spyglass",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "spyglass",
+											"render_method": "opaque"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"minecraft:air"
+												]
+											}
+										]
+									},
+									"minecraft:on_interact": {
+										"event": "cscaves:zoom",
+										"target": "player"
+									}
+								},
+								"key": "minecraft:on_interact",
+								"is_minified": true,
+								"children": {
+									"event": "cscaves:zoom",
+									"target": "player"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:spyglass_block"
+							},
+							"components": {
+								"minecraft:geometry": "geometry.spyglass",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "spyglass",
+										"render_method": "opaque"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"block_filter": [
+												"minecraft:air"
+											]
+										}
+									]
+								},
+								"minecraft:on_interact": {
+									"event": "cscaves:zoom",
+									"target": "player"
+								}
+							},
+							"events": {
+								"cscaves:zoom": {
+									"add_mob_effect": {
+										"effect": "slowness",
+										"amplifier": 250,
+										"duration": 10
+									}
+								}
+							}
+						},
+						"key": "events",
+						"children": [
+							{
+								"open": {
+									"cscaves:zoom": {
+										"add_mob_effect": {
+											"effect": "slowness",
+											"amplifier": 250,
+											"duration": 10
+										}
+									}
+								},
+								"key": "cscaves:zoom",
+								"children": [
+									{
+										"open": {
+											"add_mob_effect": {
+												"effect": "slowness",
+												"amplifier": 250,
+												"duration": 10
+											}
+										},
+										"key": "add_mob_effect",
+										"is_minified": true,
+										"children": {
+											"effect": "slowness",
+											"amplifier": 250,
+											"duration": 10
+										}
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

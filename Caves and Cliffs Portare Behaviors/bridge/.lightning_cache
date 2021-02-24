@@ -1,0 +1,449 @@
+{
+	"block": {
+		"BP/blocks/calcite.json": {
+			"identifiers": [
+				"cscaves:calcite"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/tuff.json": {
+			"identifiers": [
+				"cscaves:tuff"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/small_amethyst_bud.json": {
+			"identifiers": [
+				"cscaves:small_amethyst_bud"
+			],
+			"events": [
+				"cscaves:grow"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/medium_amethyst_bud.json": {
+			"identifiers": [
+				"cscaves:medium_amethyst_bud"
+			],
+			"events": [
+				"cscaves:grow"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/large_amethyst_bud.json": {
+			"identifiers": [
+				"cscaves:large_amethyst_bud"
+			],
+			"events": [
+				"cscaves:grow"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/amethyst_cluster.json": {
+			"identifiers": [
+				"cscaves:amethyst_cluster"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/budding_amethyst.json": {
+			"identifiers": [
+				"cscaves:budding_amethyst"
+			],
+			"events": [
+				"cscaves:grow"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/amethyst_block.json": {
+			"identifiers": [
+				"cscaves:amethyst_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/azalea.json": {
+			"identifiers": [
+				"cscaves:flowering_azalea"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/flowering_azalea.json": {
+			"identifiers": [
+				"cscaves:flowering_azalea"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/azalea_leaves.json": {
+			"identifiers": [
+				"cscaves:azalea_leaves"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/flowering_azalea_leaves.json": {
+			"identifiers": [
+				"cscaves:flowering_azalea_leaves"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/glow_lichen.json": {
+			"identifiers": [
+				"cscaves:glow_lichen"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": [
+				"bridge:rotate_y_on_place"
+			]
+		},
+		"BP/blocks/cave_vines_body.json": {
+			"identifiers": [
+				"cscaves:cave_vines_body"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/cave_vines_body_head.json": {
+			"identifiers": [
+				"cscaves:cave_vines_head"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/cave_vines_body_lit.json": {
+			"identifiers": [
+				"cscaves:cave_vines_body_lit"
+			],
+			"events": [
+				"cscaves:glowberries"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/cave_vines_body_head_lit.json": {
+			"identifiers": [
+				"cscaves:cave_vines_head_lit"
+			],
+			"events": [
+				"cscaves:glowberries"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/hanging_roots.json": {
+			"identifiers": [
+				"cscaves:hanging_roots"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/moss_block.json": {
+			"identifiers": [
+				"cscaves:moss_carpet"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/moss_carpet.json": {
+			"identifiers": [
+				"cscaves:moss_carpet"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/tinted_glass.json": {
+			"identifiers": [
+				"cscaves:tinted_glass"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/rooted_dirt.json": {
+			"identifiers": [
+				"cscaves:rooted_dirt"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/spyglass.json": {
+			"identifiers": [
+				"cscaves:spyglass_block"
+			],
+			"events": [
+				"cscaves:zoom"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/spore_blossom.json": {
+			"identifiers": [
+				"cscaves:spore_blossom"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/big_dripleaf.json": {
+			"identifiers": [
+				"cscaves:big_dripleaf"
+			],
+			"events": [
+				"cscaves:turn"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/big_dripleaf_full_tilt.json": {
+			"identifiers": [
+				"cscaves:big_dripleaf_full_tilt"
+			],
+			"events": [
+				"cscaves:turn"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/big_dripleaf_partial_tilt.json": {
+			"identifiers": [
+				"cscaves:big_dripleaf_partial_tilt"
+			],
+			"events": [
+				"cscaves:turn"
+			],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/big_dripleaf_stem.json": {
+			"identifiers": [
+				"cscaves:big_dripleaf_stem"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/small_dripleaf_bottom.json": {
+			"identifiers": [
+				"cscaves:small_dripleaf_bottom"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/small_dripleaf_top.json": {
+			"identifiers": [
+				"cscaves:small_dripleaf_bottom"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/candle.json": {
+			"identifiers": [
+				"cscaves:candle"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/candle_four.json": {
+			"identifiers": [
+				"cscaves:candle_four"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/candle_three.json": {
+			"identifiers": [
+				"cscaves:candle_three"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/convertor.json": {
+			"identifiers": [
+				"cscaves:convertor"
+			],
+			"events": [
+				"cscaves:convert"
+			],
+			"recipe_tags": [],
+			"custom_components": [],
+			"custom_commands": []
+		},
+		"BP/blocks/grimstone.json": {
+			"identifiers": [
+				"cscaves:grimstone"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"function": {
+		"e7ad195f_f971_448c_bceb_226cadfe0a45": {},
+		"6d199ce2_fdda_4b03_976a_4efefb73ae6d": {},
+		"26e8e5ba_afbd_49d8_9d5f_39e474057ff8": {},
+		"1b0a49b0_3edb_498d_9de9_00bd07ab3d36": {},
+		"15c33b95_8c6c_4928_a738_43fe2a7042c3": {},
+		"4aa32f10_03ec_441a_b7f5_fb1d85e339a5": {},
+		"04f2210c_5fdf_4347_8b70_9d3c609a6efa": {},
+		"56a91d3a_fe8c_4267_90d7_506fb8e7cd6d": {},
+		"5dd27175_8ca8_480a_9793_0eeffc24b54c": {},
+		"64507ae4_6ade_48e3_91cc_51b2a74fb8d2": {},
+		"23b07d0a_f7d7_41ab_a762_38ced38e3a4a": {},
+		"3d5b58d4_1e3f_494d_946b_21b4ba59f0c5": {},
+		"dea286da_2d49_4310_bf0c_4f73bda3dee9": {}
+	},
+	"entity": {
+		"BP/entities/player.json": {
+			"events": [
+				"minecraft:gain_bad_omen",
+				"minecraft:clear_add_bad_omen",
+				"minecraft:trigger_raid",
+				"minecraft:remove_raid_trigger"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:player"
+			],
+			"animation_references": [],
+			"families": [
+				"player"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/entities/axolotl.json": {
+			"events": [],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"cscaves:axoltol"
+			],
+			"animation_references": [],
+			"families": [
+				"cod",
+				"fish"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"item": {
+		"BP/items/amethyst_shard.json": {
+			"identifiers": [
+				"cscaves:amethyst_shard"
+			],
+			"custom_commands": []
+		},
+		"BP/items/axolotl_bucket.json": {
+			"identifiers": [
+				"cscaves:axolotl_bucket"
+			],
+			"custom_commands": []
+		},
+		"BP/items/glow_berries.json": {
+			"identifiers": [
+				"cscaves:glow_berries"
+			],
+			"custom_commands": []
+		},
+		"BP/items/spyglass.json": {
+			"identifiers": [
+				"cscaves:spyglass"
+			],
+			"custom_commands": []
+		},
+		"BP/items/item_amethyst_block.json": {
+			"identifiers": [
+				"cscaves:item_amethyst_block"
+			],
+			"custom_commands": []
+		}
+	},
+	"client_entity": {
+		"RP/entity/axolotl.entity.json": {
+			"identifiers": [
+				"cscaves:axolotl"
+			],
+			"particle_references": [],
+			"animation_references": [
+				"flop",
+				"swim"
+			],
+			"sound_references": [],
+			"texture_references": [
+				"default"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			],
+			"geometry_identifiers": [
+				"default"
+			]
+		}
+	}
+}

@@ -1,0 +1,269 @@
+{
+	"RP/blocks.json": {
+		"data": {}
+	},
+	"RP/textures/terrain_texture.json": {
+		"data": {}
+	},
+	"BP/blocks/calcite.json": {
+		"data": {}
+	},
+	"BP/blocks/tuff.json": {
+		"data": {}
+	},
+	"BP/blocks/small_amethyst_bud.json": {
+		"data": {}
+	},
+	"BP/blocks/medium_amethyst_bud.json": {
+		"data": {}
+	},
+	"BP/blocks/large_amethyst_bud.json": {
+		"data": {}
+	},
+	"BP/blocks/amethyst_cluster.json": {
+		"data": {}
+	},
+	"BP/blocks/budding_amethyst.json": {
+		"data": {}
+	},
+	"BP/blocks/amethyst_block.json": {
+		"data": {}
+	},
+	"BP/blocks/azalea.json": {
+		"data": {}
+	},
+	"BP/blocks/flowering_azalea.json": {
+		"data": {}
+	},
+	"BP/blocks/azalea_leaves.json": {
+		"data": {}
+	},
+	"BP/blocks/flowering_azalea_leaves.json": {
+		"data": {}
+	},
+	"BP/blocks/glow_lichen.json": {
+		"data": {
+			"component@bridge:rotate_y_on_place": {
+				"minecraft:block": {
+					"description": {
+						"properties": {
+							"bridge:block_rotation": [
+								2,
+								3,
+								4,
+								5
+							]
+						}
+					},
+					"permutations": [
+						{
+							"condition": "query.block_property('bridge:block_rotation') == 2",
+							"components": {
+								"minecraft:rotation": [
+									0,
+									0,
+									0
+								]
+							}
+						},
+						{
+							"condition": "query.block_property('bridge:block_rotation') == 3",
+							"components": {
+								"minecraft:rotation": [
+									0,
+									180,
+									0
+								]
+							}
+						},
+						{
+							"condition": "query.block_property('bridge:block_rotation') == 4",
+							"components": {
+								"minecraft:rotation": [
+									0,
+									90,
+									0
+								]
+							}
+						},
+						{
+							"condition": "query.block_property('bridge:block_rotation') == 5",
+							"components": {
+								"minecraft:rotation": [
+									0,
+									270,
+									0
+								]
+							}
+						}
+					],
+					"components": {
+						"minecraft:on_player_placing": {
+							"event": "bridge:update_rotation"
+						}
+					},
+					"events": {
+						"bridge:update_rotation": {
+							"set_block_property": {
+								"bridge:block_rotation": "query.cardinal_facing_2d"
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"BP/blocks/cave_vines_body.json": {
+		"data": {}
+	},
+	"BP/blocks/cave_vines_body_head.json": {
+		"data": {}
+	},
+	"BP/blocks/cave_vines_body_lit.json": {
+		"data": {}
+	},
+	"BP/blocks/cave_vines_body_head_lit.json": {
+		"data": {}
+	},
+	"BP/blocks/hanging_roots.json": {
+		"data": {}
+	},
+	"BP/blocks/moss_block.json": {
+		"data": {}
+	},
+	"BP/blocks/moss_carpet.json": {
+		"data": {}
+	},
+	"BP/blocks/tinted_glass.json": {
+		"data": {}
+	},
+	"BP/blocks/rooted_dirt.json": {
+		"data": {}
+	},
+	"BP/blocks/spyglass.json": {
+		"data": {}
+	},
+	"BP/blocks/spore_blossom.json": {
+		"data": {}
+	},
+	"RP/textures/item_texture.json": {
+		"data": {}
+	},
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {
+			"3cd70bca_b45f_4734_ac0e_eca6cfaf1792": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"627bf088_6b92_4303_896d_a84d2c6efb01": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"ccd670dc_adca_41a6_9212_b049e6ad5aff": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"26e8e5ba_afbd_49d8_9d5f_39e474057ff8": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"dea286da_2d49_4310_bf0c_4f73bda3dee9": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			}
+		}
+	},
+	"BP/items/amethyst_shard.json": {
+		"data": {}
+	},
+	"BP/items/axolotl_bucket.json": {
+		"data": {}
+	},
+	"BP/items/glow_berries.json": {
+		"data": {}
+	},
+	"BP/items/spyglass.json": {
+		"data": {}
+	},
+	"RP/entity/axolotl.entity.json": {
+		"data": {}
+	},
+	"BP/entities/axolotl.json": {
+		"data": {}
+	},
+	"BP/blocks/big_dripleaf.json": {
+		"data": {}
+	},
+	"BP/blocks/big_dripleaf_full_tilt.json": {
+		"data": {}
+	},
+	"BP/blocks/big_dripleaf_partial_tilt.json": {
+		"data": {}
+	},
+	"BP/blocks/big_dripleaf_stem.json": {
+		"data": {}
+	},
+	"BP/blocks/small_dripleaf_bottom.json": {
+		"data": {}
+	},
+	"BP/blocks/small_dripleaf_top.json": {
+		"data": {}
+	},
+	"BP/blocks/candle.json": {
+		"data": {}
+	},
+	"BP/blocks/candle_four.json": {
+		"data": {}
+	},
+	"BP/blocks/candle_three.json": {
+		"data": {}
+	},
+	"BP/loot_tables/amethyst_shard.json": {
+		"data": {}
+	},
+	"BP/loot_tables/empty.json": {
+		"data": {}
+	},
+	"BP/blocks/convertor.json": {
+		"data": {}
+	},
+	"BP/blocks/grimstone.json": {
+		"data": {}
+	},
+	"BP/items/item_amethyst_block.json": {
+		"data": {}
+	}
+}

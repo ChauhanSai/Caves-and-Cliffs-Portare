@@ -1,0 +1,278 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\items\\spyglass.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "26e8e5ba_afbd_49d8_9d5f_39e474057ff8",
+	"file_version": 6,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "cscaves:spyglass"
+						},
+						"components": {
+							"minecraft:max_stack_size": 1,
+							"minecraft:on_use": {
+								"on_use": {
+									"event": "cscaves:zoom"
+								}
+							},
+							"minecraft:icon": {
+								"texture": "spyglass"
+							},
+							"minecraft:hand_equipped": true,
+							"minecraft:creative_category": {
+								"parent": "equipment"
+							}
+						},
+						"events": {
+							"cscaves:zoom": {
+								"run_command": {
+									"command": [
+										"effect @p slowness 4 255"
+									]
+								}
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:spyglass"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:on_use": {
+									"on_use": {
+										"event": "cscaves:zoom"
+									}
+								},
+								"minecraft:icon": {
+									"texture": "spyglass"
+								},
+								"minecraft:hand_equipped": true,
+								"minecraft:creative_category": {
+									"parent": "equipment"
+								}
+							},
+							"events": {
+								"cscaves:zoom": {
+									"run_command": {
+										"command": [
+											"effect @p slowness 4 255"
+										]
+									}
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:spyglass"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:spyglass"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:on_use": {
+									"on_use": {
+										"event": "cscaves:zoom"
+									}
+								},
+								"minecraft:icon": {
+									"texture": "spyglass"
+								},
+								"minecraft:hand_equipped": true,
+								"minecraft:creative_category": {
+									"parent": "equipment"
+								}
+							},
+							"events": {
+								"cscaves:zoom": {
+									"run_command": {
+										"command": [
+											"effect @p slowness 4 255"
+										]
+									}
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "1",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:on_use": {
+										"on_use": {
+											"event": "cscaves:zoom"
+										}
+									},
+									"minecraft:icon": {
+										"texture": "spyglass"
+									},
+									"minecraft:hand_equipped": true,
+									"minecraft:creative_category": {
+										"parent": "equipment"
+									}
+								},
+								"key": "minecraft:on_use",
+								"children": [
+									{
+										"open": {
+											"on_use": {
+												"event": "cscaves:zoom"
+											}
+										},
+										"key": "on_use",
+										"is_minified": true,
+										"children": {
+											"event": "cscaves:zoom"
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:on_use": {
+										"on_use": {
+											"event": "cscaves:zoom"
+										}
+									},
+									"minecraft:icon": {
+										"texture": "spyglass"
+									},
+									"minecraft:hand_equipped": true,
+									"minecraft:creative_category": {
+										"parent": "equipment"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "spyglass"
+								}
+							},
+							{
+								"data": "true",
+								"key": "minecraft:hand_equipped"
+							},
+							{
+								"open": {
+									"minecraft:max_stack_size": 1,
+									"minecraft:on_use": {
+										"on_use": {
+											"event": "cscaves:zoom"
+										}
+									},
+									"minecraft:icon": {
+										"texture": "spyglass"
+									},
+									"minecraft:hand_equipped": true,
+									"minecraft:creative_category": {
+										"parent": "equipment"
+									}
+								},
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "equipment"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:spyglass"
+							},
+							"components": {
+								"minecraft:max_stack_size": 1,
+								"minecraft:on_use": {
+									"on_use": {
+										"event": "cscaves:zoom"
+									}
+								},
+								"minecraft:icon": {
+									"texture": "spyglass"
+								},
+								"minecraft:hand_equipped": true,
+								"minecraft:creative_category": {
+									"parent": "equipment"
+								}
+							},
+							"events": {
+								"cscaves:zoom": {
+									"run_command": {
+										"command": [
+											"effect @p slowness 4 255"
+										]
+									}
+								}
+							}
+						},
+						"key": "events",
+						"children": [
+							{
+								"open": {
+									"cscaves:zoom": {
+										"run_command": {
+											"command": [
+												"effect @p slowness 4 255"
+											]
+										}
+									}
+								},
+								"key": "cscaves:zoom",
+								"children": [
+									{
+										"open": {
+											"run_command": {
+												"command": [
+													"effect @p slowness 4 255"
+												]
+											}
+										},
+										"key": "run_command",
+										"children": [
+											{
+												"open": {
+													"command": [
+														"effect @p slowness 4 255"
+													]
+												},
+												"key": "command",
+												"is_minified": true,
+												"children": [
+													"effect @p slowness 4 255"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:tinted_glass"
+		},
+		"components": {
+			"minecraft:destroy_time": 7,
+			"minecraft:block_light_absorption": 0,
+			"minecraft:block_light_emission": 0,
+			"minecraft:geometry": "geometry.cube",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "tinted_glass",
+					"render_method": "blend"
+				}
+			},
+			"minecraft:map_color": "#000000"
+		},
+		"events": {}
+	}
+}

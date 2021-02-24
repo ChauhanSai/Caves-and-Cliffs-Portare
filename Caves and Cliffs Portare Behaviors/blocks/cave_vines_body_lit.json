@@ -1,0 +1,46 @@
+//bridge-file-version: #5
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:cave_vines_body_lit"
+		},
+		"components": {
+			"minecraft:geometry": "geometry.cross",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "cave_vines_body_lit",
+					"render_method": "blend"
+				}
+			},
+			"minecraft:map_color": "#5a6a28",
+			"minecraft:block_light_absorption": 1,
+			"minecraft:destroy_time": 3,
+			"minecraft:entity_collision": false,
+			"minecraft:block_light_emission": 0.5,
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"allowed_faces": [
+							"down"
+						]
+					}
+				]
+			},
+			"minecraft:on_interact": {
+				"event": "cscaves:glowberries"
+			},
+			"minecraft:loot": "loot_tables/empty.json"
+		},
+		"events": {
+			"cscaves:glowberries": {
+				"run_command": {
+					"command": [
+						"give @p cscaves:glow_berries",
+						"setblock ~ ~ ~ cscaves:cave_vines_body"
+					]
+				}
+			}
+		}
+	}
+}

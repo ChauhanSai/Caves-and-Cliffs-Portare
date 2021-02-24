@@ -1,0 +1,35 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:convertor"
+		},
+		"components": {
+			"minecraft:on_placed": {
+				"event": "cscaves:convert"
+			}
+		},
+		"events": {
+			"cscaves:convert": {
+				"sequence": [
+					{
+						"run_command": {
+							"command": [
+								"say §lConversion Started"
+							]
+						}
+					},
+					{
+						"run_command": {
+							"command": [
+								"say Converting §kWIP",
+								"//fill ~15 ~16 ~15 ~-15 ~-16 ~-15 dirt 0 replace grass"
+							]
+						}
+					}
+				]
+			}
+		}
+	}
+}

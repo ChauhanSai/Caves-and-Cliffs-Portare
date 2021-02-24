@@ -1,0 +1,53 @@
+//bridge-file-version: #7
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:small_amethyst_bud"
+		},
+		"components": {
+			"minecraft:destroy_time": 3,
+			"minecraft:friction": 0.7,
+			"minecraft:geometry": "geometry.cross",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "small_amethyst_bud",
+					"render_method": "blend"
+				}
+			},
+			"minecraft:map_color": "#8867c4",
+			"minecraft:entity_collision": false,
+			"minecraft:block_light_absorption": 1,
+			"minecraft:ticking": {
+				"looping": true,
+				"range": [
+					600,
+					1200
+				],
+				"on_tick": {
+					"event": "cscaves:grow",
+					"target": "self"
+				}
+			},
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"block_filter": [
+							"cscaves:amethyst_block",
+							"cscaves:budding_amethyst"
+						]
+					}
+				]
+			}
+		},
+		"events": {
+			"cscaves:grow": {
+				"run_command": {
+					"command": [
+						"setblock ~ ~ ~ cscaves:medium_amethyst_bud"
+					]
+				}
+			}
+		}
+	}
+}

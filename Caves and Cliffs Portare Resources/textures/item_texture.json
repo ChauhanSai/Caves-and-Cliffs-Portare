@@ -1,0 +1,168 @@
+//bridge-file-version: #2
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"amethyst_shard": {
+			"textures": "textures/items/amethyst_shard"
+		},
+		"axolotl_bucket": {
+			"textures": "textures/items/axolotl_bucket"
+		},
+		"glow_berries": {
+			"textures": "textures/items/glow_berries"
+		},
+		"spyglass": {
+			"textures": "textures/items/spyglass"
+		},
+		
+		
+		"calcite": {
+			"textures": "textures/blockitems/calcite"
+		},
+		"tuff": {
+			"textures": "textures/blockitems/tuff"
+		},
+		"small_amethyst_bud": {
+			"textures": "textures/blockitems/small_amethyst_bud"
+		},
+		"medium_amethyst_bud": {
+			"textures": "textures/blockitems/medium_amethyst_bud"
+		},
+		"large_amethyst_bud": {
+			"textures": "textures/blockitems/large_amethyst_bud"
+		},
+		"amethyst_cluster": {
+			"textures": "textures/blockitems/amethyst_cluster"
+		},
+		"amethyst_block": {
+			"textures": "textures/blockitems/amethyst_block"
+		},
+		"budding_amethyst": {
+			"textures": "textures/blockitems/budding_amethyst"
+		},
+		"azalea": {
+			"textures": "textures/blocks/azalea"
+		},
+		"flowering_azalea": {
+			"textures": "textures/blocks/flowering_azalea"
+		},
+		"azalea_leaves": {
+			"textures": "textures/blockitems/azalea_leaves"
+		},
+		"flowering_azalea_leaves": {
+			"textures": "textures/blockitems/azalea_leaves_flowers"
+		},
+		"candle": {
+			"textures": "textures/blockitems/candle"
+		},
+		"candle_black": {
+			"textures": "textures/blockitems/black_candle"
+		},
+		"candle_blue": {
+			"textures": "textures/blockitems/blue_candle"
+		},
+		"candle_brown": {
+			"textures": "textures/blockitems/brown_candle"
+		},
+		"candle_cyan": {
+			"textures": "textures/blockitems/cyan_candle"
+		},
+		"candle_gray": {
+			"textures": "textures/blockitems/gray_candle"
+		},
+		"candle_green": {
+			"textures": "textures/blockitems/green_candle"
+		},
+		"candle_light_blue": {
+			"textures": "textures/blockitems/light_blue_candle"
+		},
+		"candle_light_gray": {
+			"textures": "textures/blockitems/light_gray_candle"
+		},
+		"candle_lime": {
+			"textures": "textures/blockitems/lime_candle"
+		},
+		"candle_magenta": {
+			"textures": "textures/blockitems/magenta_candle"
+		},
+		"candle_orange": {
+			"textures": "textures/blockitems/orange_candle"
+		},
+		"candle_pink": {
+			"textures": "textures/blockitems/pink_candle"
+		},
+		"candle_purple": {
+			"textures": "textures/blockitems/purple_candle"
+		},
+		"candle_red": {
+			"textures": "textures/blockitems/red_candle"
+		},
+		"candle_white": {
+			"textures": "textures/blockitems/white_candle"
+		},
+		"candle_yellow": {
+			"textures": "textures/blockitems/yellow_candle"
+		},
+		"cave_vines_body": {
+			"textures": "textures/blockitems/cave_vines_body"
+		},
+		"cave_vines_body_lit": {
+			"textures": "textures/blockitems/cave_vines_body_lit"
+		},
+		"cave_vines_head": {
+			"textures": "textures/blockitems/cave_vines_head"
+		},
+		"cave_vines_head_lit": {
+			"textures": "textures/blockitems/cave_vines_head_lit"
+		},
+		"glow_lichen": {
+			"textures": "textures/blockitems/glow_lichen"
+		},
+		"hanging_roots": {
+			"textures": "textures/blockitems/hanging_roots"
+		},
+		"moss_block": {
+			"textures": "textures/blockitems/moss_block"
+		},
+		"rooted_dirt": {
+			"textures": "textures/blockitems/rooted_dirt"
+		},
+		"small_dripleaf": {
+			"textures": "textures/blockitems/small_dripleaf"
+		},
+		"small_dripleaf_stem": {
+			"textures": "textures/blockitems/small_dripleaf_stem"
+		},
+		"big_dripleaf": {
+			"textures": "textures/blockitems/big_dripleaf"
+		},
+		"big_dripleaf_stem": {
+			"textures": "textures/blockitems/big_dripleaf_stem"
+		},
+		"spore_blossom": {
+			"textures": "textures/blockitems/spore_blossom"
+		},
+		"tinted_glass": {
+			"textures": "textures/blockitems/tinted_glass"
+		},
+		"convertor": {
+			"textures": "textures/blockitems/convertor"
+		},
+		"grimstone": {
+			"textures": "textures/blockitems/grimstone"
+		},
+		"grimstone_bricks": {
+			"textures": "textures/blockitems/grimstone_bricks"
+		},
+		"grimstone_chiseled": {
+			"textures": "textures/blockitems/grimstone_chiseled"
+		},
+		"grimstone_polished": {
+			"textures": "textures/blockitems/grimstone_polished"
+		},
+		"grimstone_tiles": {
+			"textures": "textures/blockitems/grimstone_tiles"
+		}
+	}
+}

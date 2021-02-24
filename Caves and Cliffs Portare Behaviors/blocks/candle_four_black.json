@@ -1,0 +1,55 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:candle_four_black"
+		},
+		"components": {
+			"minecraft:destroy_time": 5,
+			"minecraft:block_light_absorption": 1,
+			"minecraft:block_light_emission": 0.9,
+			"minecraft:geometry": "geometry.template_four_candles",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "candle_black",
+					"render_method": "blend"
+				}
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-3,
+					0,
+					-3
+				],
+				"size": [
+					6,
+					7,
+					5
+				]
+			},
+			"minecraft:entity_collision": {
+				"origin": [
+					-3,
+					0,
+					-3
+				],
+				"size": [
+					6,
+					6,
+					5
+				]
+			},
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"allowed_faces": [
+							"up"
+						]
+					}
+				]
+			}
+		},
+		"events": {}
+	}
+}

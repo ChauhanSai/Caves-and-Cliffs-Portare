@@ -1,0 +1,434 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\blocks\\big_dripleaf_partial_tilt.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "04f2210c_5fdf_4347_8b70_9d3c609a6efa",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cscaves:big_dripleaf_partial_tilt"
+						},
+						"components": {
+							"minecraft:destroy_time": 3,
+							"minecraft:map_color": "#617a2e",
+							"minecraft:geometry": "geometry.big_dripleaf_partial_tilt",
+							"minecraft:block_light_absorption": 1,
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "big_dripleaf",
+									"render_method": "blend"
+								}
+							},
+							"minecraft:placement_filter": {
+								"conditions": [
+									{
+										"allowed_faces": [
+											"up"
+										]
+									}
+								]
+							},
+							"minecraft:on_step_on": {
+								"event": "cscaves:turn"
+							}
+						},
+						"events": {
+							"cscaves:turn": {
+								"run_command": {
+									"command": [
+										"setblock ~ ~ ~ cscaves:big_dripleaf_full_tilt"
+									]
+								}
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:big_dripleaf_partial_tilt"
+							},
+							"components": {
+								"minecraft:destroy_time": 3,
+								"minecraft:map_color": "#617a2e",
+								"minecraft:geometry": "geometry.big_dripleaf_partial_tilt",
+								"minecraft:block_light_absorption": 1,
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "big_dripleaf",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"allowed_faces": [
+												"up"
+											]
+										}
+									]
+								},
+								"minecraft:on_step_on": {
+									"event": "cscaves:turn"
+								}
+							},
+							"events": {
+								"cscaves:turn": {
+									"run_command": {
+										"command": [
+											"setblock ~ ~ ~ cscaves:big_dripleaf_full_tilt"
+										]
+									}
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:big_dripleaf_partial_tilt"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:big_dripleaf_partial_tilt"
+							},
+							"components": {
+								"minecraft:destroy_time": 3,
+								"minecraft:map_color": "#617a2e",
+								"minecraft:geometry": "geometry.big_dripleaf_partial_tilt",
+								"minecraft:block_light_absorption": 1,
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "big_dripleaf",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"allowed_faces": [
+												"up"
+											]
+										}
+									]
+								},
+								"minecraft:on_step_on": {
+									"event": "cscaves:turn"
+								}
+							},
+							"events": {
+								"cscaves:turn": {
+									"run_command": {
+										"command": [
+											"setblock ~ ~ ~ cscaves:big_dripleaf_full_tilt"
+										]
+									}
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "3",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:map_color": "#617a2e",
+									"minecraft:geometry": "geometry.big_dripleaf_partial_tilt",
+									"minecraft:block_light_absorption": 1,
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "big_dripleaf",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"allowed_faces": [
+													"up"
+												]
+											}
+										]
+									},
+									"minecraft:on_step_on": {
+										"event": "cscaves:turn"
+									}
+								},
+								"data": "#617a2e",
+								"key": "minecraft:map_color"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:map_color": "#617a2e",
+									"minecraft:geometry": "geometry.big_dripleaf_partial_tilt",
+									"minecraft:block_light_absorption": 1,
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "big_dripleaf",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"allowed_faces": [
+													"up"
+												]
+											}
+										]
+									},
+									"minecraft:on_step_on": {
+										"event": "cscaves:turn"
+									}
+								},
+								"data": "geometry.big_dripleaf_partial_tilt",
+								"key": "minecraft:geometry"
+							},
+							{
+								"data": "1",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:map_color": "#617a2e",
+									"minecraft:geometry": "geometry.big_dripleaf_partial_tilt",
+									"minecraft:block_light_absorption": 1,
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "big_dripleaf",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"allowed_faces": [
+													"up"
+												]
+											}
+										]
+									},
+									"minecraft:on_step_on": {
+										"event": "cscaves:turn"
+									}
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "big_dripleaf",
+												"render_method": "blend"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "big_dripleaf",
+											"render_method": "blend"
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:map_color": "#617a2e",
+									"minecraft:geometry": "geometry.big_dripleaf_partial_tilt",
+									"minecraft:block_light_absorption": 1,
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "big_dripleaf",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"allowed_faces": [
+													"up"
+												]
+											}
+										]
+									},
+									"minecraft:on_step_on": {
+										"event": "cscaves:turn"
+									}
+								},
+								"key": "minecraft:placement_filter",
+								"children": [
+									{
+										"open": {
+											"conditions": [
+												{
+													"allowed_faces": [
+														"up"
+													]
+												}
+											]
+										},
+										"key": "conditions",
+										"children": [
+											{
+												"open": [
+													{
+														"allowed_faces": [
+															"up"
+														]
+													}
+												],
+												"children": [
+													{
+														"open": {
+															"allowed_faces": [
+																"up"
+															]
+														},
+														"key": "allowed_faces",
+														"is_minified": true,
+														"children": [
+															"up"
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:map_color": "#617a2e",
+									"minecraft:geometry": "geometry.big_dripleaf_partial_tilt",
+									"minecraft:block_light_absorption": 1,
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "big_dripleaf",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"allowed_faces": [
+													"up"
+												]
+											}
+										]
+									},
+									"minecraft:on_step_on": {
+										"event": "cscaves:turn"
+									}
+								},
+								"key": "minecraft:on_step_on",
+								"is_minified": true,
+								"children": {
+									"event": "cscaves:turn"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:big_dripleaf_partial_tilt"
+							},
+							"components": {
+								"minecraft:destroy_time": 3,
+								"minecraft:map_color": "#617a2e",
+								"minecraft:geometry": "geometry.big_dripleaf_partial_tilt",
+								"minecraft:block_light_absorption": 1,
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "big_dripleaf",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"allowed_faces": [
+												"up"
+											]
+										}
+									]
+								},
+								"minecraft:on_step_on": {
+									"event": "cscaves:turn"
+								}
+							},
+							"events": {
+								"cscaves:turn": {
+									"run_command": {
+										"command": [
+											"setblock ~ ~ ~ cscaves:big_dripleaf_full_tilt"
+										]
+									}
+								}
+							}
+						},
+						"key": "events",
+						"children": [
+							{
+								"open": {
+									"cscaves:turn": {
+										"run_command": {
+											"command": [
+												"setblock ~ ~ ~ cscaves:big_dripleaf_full_tilt"
+											]
+										}
+									}
+								},
+								"key": "cscaves:turn",
+								"children": [
+									{
+										"open": {
+											"run_command": {
+												"command": [
+													"setblock ~ ~ ~ cscaves:big_dripleaf_full_tilt"
+												]
+											}
+										},
+										"key": "run_command",
+										"children": [
+											{
+												"open": {
+													"command": [
+														"setblock ~ ~ ~ cscaves:big_dripleaf_full_tilt"
+													]
+												},
+												"key": "command",
+												"is_minified": true,
+												"children": [
+													"setblock ~ ~ ~ cscaves:big_dripleaf_full_tilt"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

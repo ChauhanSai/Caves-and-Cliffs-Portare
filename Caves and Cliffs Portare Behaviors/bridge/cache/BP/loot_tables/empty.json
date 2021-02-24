@@ -1,0 +1,80 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\loot_tables\\empty.json",
+	"file_type": "loot_table",
+	"format_version": 1,
+	"file_uuid": "545606a9_7e4e_41ef_9655_6cd2f7b3d20b",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"pools": [
+						{
+							"rolls": {
+								"min": 0,
+								"max": 0
+							},
+							"entries": [
+								{
+									"type": "item",
+									"name": {}
+								}
+							]
+						}
+					]
+				},
+				"key": "pools",
+				"children": [
+					{
+						"open": [
+							{
+								"rolls": {
+									"min": 0,
+									"max": 0
+								},
+								"entries": [
+									{
+										"type": "item",
+										"name": {}
+									}
+								]
+							}
+						],
+						"children": [
+							{
+								"open": {
+									"rolls": {
+										"min": 0,
+										"max": 0
+									},
+									"entries": [
+										{
+											"type": "item",
+											"name": {}
+										}
+									]
+								},
+								"key": "rolls",
+								"is_minified": true,
+								"children": {
+									"min": 0,
+									"max": 0
+								}
+							},
+							{
+								"key": "entries",
+								"is_minified": true,
+								"children": [
+									{
+										"type": "item",
+										"name": {}
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

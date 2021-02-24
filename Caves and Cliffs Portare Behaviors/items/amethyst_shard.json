@@ -1,0 +1,18 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "cscaves:amethyst_shard"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "amethyst_shard"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.diamond"
+			}
+		},
+		"events": {}
+	}
+}

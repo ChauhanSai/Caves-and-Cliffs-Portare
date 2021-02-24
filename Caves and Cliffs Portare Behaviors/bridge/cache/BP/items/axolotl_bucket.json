@@ -1,0 +1,234 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\items\\axolotl_bucket.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "627bf088_6b92_4303_896d_a84d2c6efb01",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "cscaves:axolotl_bucket"
+						},
+						"components": {
+							"minecraft:use_duration": 1.6,
+							"minecraft:stacked_by_data": true,
+							"minecraft:block_placer": {
+								"block": "minecraft:water"
+							},
+							"minecraft:entity_placer": {
+								"entity": "minecraft:pig"
+							},
+							"minecraft:icon": {
+								"texture": "axolotl_bucket"
+							},
+							"minecraft:max_stack_size": 1,
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.buckets"
+							}
+						}
+					}
+				},
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "cscaves:axolotl_bucket"
+						},
+						"components": {
+							"minecraft:use_duration": 1.6,
+							"minecraft:stacked_by_data": true,
+							"minecraft:block_placer": {
+								"block": "minecraft:water"
+							},
+							"minecraft:entity_placer": {
+								"entity": "minecraft:pig"
+							},
+							"minecraft:icon": {
+								"texture": "axolotl_bucket"
+							},
+							"minecraft:max_stack_size": 1,
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.buckets"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:axolotl_bucket"
+							},
+							"components": {
+								"minecraft:use_duration": 1.6,
+								"minecraft:stacked_by_data": true,
+								"minecraft:block_placer": {
+									"block": "minecraft:water"
+								},
+								"minecraft:entity_placer": {
+									"entity": "minecraft:pig"
+								},
+								"minecraft:icon": {
+									"texture": "axolotl_bucket"
+								},
+								"minecraft:max_stack_size": 1,
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.buckets"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:axolotl_bucket"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:axolotl_bucket"
+							},
+							"components": {
+								"minecraft:use_duration": 1.6,
+								"minecraft:stacked_by_data": true,
+								"minecraft:block_placer": {
+									"block": "minecraft:water"
+								},
+								"minecraft:entity_placer": {
+									"entity": "minecraft:pig"
+								},
+								"minecraft:icon": {
+									"texture": "axolotl_bucket"
+								},
+								"minecraft:max_stack_size": 1,
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.buckets"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "1.6",
+								"key": "minecraft:use_duration"
+							},
+							{
+								"data": "true",
+								"key": "minecraft:stacked_by_data"
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 1.6,
+									"minecraft:stacked_by_data": true,
+									"minecraft:block_placer": {
+										"block": "minecraft:water"
+									},
+									"minecraft:entity_placer": {
+										"entity": "minecraft:pig"
+									},
+									"minecraft:icon": {
+										"texture": "axolotl_bucket"
+									},
+									"minecraft:max_stack_size": 1,
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.buckets"
+									}
+								},
+								"key": "minecraft:block_placer",
+								"is_minified": true,
+								"children": {
+									"block": "minecraft:water"
+								}
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 1.6,
+									"minecraft:stacked_by_data": true,
+									"minecraft:block_placer": {
+										"block": "minecraft:water"
+									},
+									"minecraft:entity_placer": {
+										"entity": "minecraft:pig"
+									},
+									"minecraft:icon": {
+										"texture": "axolotl_bucket"
+									},
+									"minecraft:max_stack_size": 1,
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.buckets"
+									}
+								},
+								"key": "minecraft:entity_placer",
+								"is_minified": true,
+								"children": {
+									"entity": "minecraft:pig"
+								}
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 1.6,
+									"minecraft:stacked_by_data": true,
+									"minecraft:block_placer": {
+										"block": "minecraft:water"
+									},
+									"minecraft:entity_placer": {
+										"entity": "minecraft:pig"
+									},
+									"minecraft:icon": {
+										"texture": "axolotl_bucket"
+									},
+									"minecraft:max_stack_size": 1,
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.buckets"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "axolotl_bucket"
+								}
+							},
+							{
+								"data": "1",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"open": {
+									"minecraft:use_duration": 1.6,
+									"minecraft:stacked_by_data": true,
+									"minecraft:block_placer": {
+										"block": "minecraft:water"
+									},
+									"minecraft:entity_placer": {
+										"entity": "minecraft:pig"
+									},
+									"minecraft:icon": {
+										"texture": "axolotl_bucket"
+									},
+									"minecraft:max_stack_size": 1,
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.buckets"
+									}
+								},
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.buckets"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

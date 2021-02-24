@@ -1,0 +1,40 @@
+//bridge-file-version: #5
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:spyglass_block"
+		},
+		"components": {
+			"minecraft:geometry": "geometry.spyglass",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "spyglass",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"block_filter": [
+							"minecraft:air"
+						]
+					}
+				]
+			},
+			"minecraft:on_interact": {
+				"event": "cscaves:zoom",
+				"target": "player"
+			}
+		},
+		"events": {
+			"cscaves:zoom": {
+				"add_mob_effect": {
+					"effect": "slowness",
+					"amplifier": 250,
+					"duration": 10
+				}
+			}
+		}
+	}
+}

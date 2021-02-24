@@ -1,0 +1,5073 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Caves and Cliffs Portare\\blocks.json",
+	"file_type": "client_block",
+	"format_version": 1,
+	"file_uuid": "f2890e17_5c79_4be4_a99a_f3f3ac08039b",
+	"file_version": 13,
+	"cache_content": {
+		"children": [
+			{
+				"key": "format_version",
+				"is_minified": true,
+				"children": [
+					1,
+					1,
+					0
+				]
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:calcite",
+				"is_minified": true,
+				"children": {
+					"textures": "calcite",
+					"sound": "stone"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:tuff",
+				"is_minified": true,
+				"children": {
+					"textures": "tuff",
+					"sound": "stone"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:small_amethyst_bud",
+				"is_minified": true,
+				"children": {
+					"textures": "small_amethyst_bud"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:medium_amethyst_bud",
+				"is_minified": true,
+				"children": {
+					"textures": "medium_amethyst_bud"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:large_amethyst_bud",
+				"is_minified": true,
+				"children": {
+					"textures": "large_amethyst_bud"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:amethyst_cluster",
+				"is_minified": true,
+				"children": {
+					"textures": "amethyst_cluster"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:budding_amethyst",
+				"children": [
+					{
+						"open": {
+							"textures": {
+								"up": "budding_amethyst",
+								"down": "amethyst_block",
+								"side": "amethyst_block"
+							}
+						},
+						"key": "textures",
+						"is_minified": true,
+						"children": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					}
+				]
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:amethyst_block",
+				"is_minified": true,
+				"children": {
+					"textures": "amethyst_block"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:azalea",
+				"is_minified": true,
+				"children": {
+					"textures": "azalea",
+					"sound": "grass"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:flowering_azalea",
+				"is_minified": true,
+				"children": {
+					"textures": "flowering_azalea",
+					"sound": "grass"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:azalea_leaves",
+				"is_minified": true,
+				"children": {
+					"textures": "azalea_leaves",
+					"sound": "grass"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:flowering_azalea_leaves",
+				"is_minified": true,
+				"children": {
+					"textures": "flowering_azalea_leaves",
+					"sound": "grass"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:glow_lichen",
+				"is_minified": true,
+				"children": {
+					"textures": "glow_lichen"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:cave_vines_body",
+				"is_minified": true,
+				"children": {
+					"textures": "cave_vines_body"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:cave_vines_body_lit",
+				"is_minified": true,
+				"children": {
+					"textures": "cave_vines_body_lit"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:cave_vines_head",
+				"is_minified": true,
+				"children": {
+					"textures": "cave_vines_head"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:cave_vines_head_lit",
+				"is_minified": true,
+				"children": {
+					"textures": "cave_vines_head_lit"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:hanging_roots",
+				"is_minified": true,
+				"children": {
+					"textures": "hanging_roots"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:moss_carpet",
+				"is_minified": true,
+				"children": {
+					"textures": "moss_block"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:tinted_glass",
+				"is_minified": true,
+				"children": {
+					"textures": "tinted_glass"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:rooted_dirt",
+				"is_minified": true,
+				"children": {
+					"textures": "rooted_dirt"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:spyglass_block",
+				"is_minified": true,
+				"children": {
+					"textures": "spyglass"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:spore_blossom",
+				"is_minified": true,
+				"children": {
+					"textures": "spore_blossom"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:moss_block",
+				"is_minified": true,
+				"children": {
+					"textures": "moss_block"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:small_dripleaf_top",
+				"is_minified": true,
+				"children": {
+					"textures": "small_dripleaf"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:small_dripleaf_bottom",
+				"is_minified": true,
+				"children": {
+					"textures": "small_dripleaf"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:big_dripleaf",
+				"is_minified": true,
+				"children": {
+					"textures": "big_dripleaf"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:big_dripleaf_full_tilt",
+				"is_minified": true,
+				"children": {
+					"textures": "big_dripleaf"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:big_dripleaf_partial_tilt",
+				"is_minified": true,
+				"children": {
+					"textures": "big_dripleaf"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:big_dripleaf_stem",
+				"is_minified": true,
+				"children": {
+					"textures": "big_dripleaf"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:candle_xx",
+				"is_minified": true,
+				"children": {
+					"textures": "candle"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:convertor",
+				"is_minified": true,
+				"children": {
+					"textures": "convertor",
+					"sound": "metal"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:grimstone",
+				"is_minified": true,
+				"children": {
+					"textures": "grimstone"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:grimstone_bricks",
+				"is_minified": true,
+				"children": {
+					"textures": "grimstone_bricks"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:grimstone_chiseled",
+				"is_minified": true,
+				"children": {
+					"textures": "grimstone_chiseled"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:grimstone_polished",
+				"is_minified": true,
+				"children": {
+					"textures": "grimstone_polished"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"cscaves:calcite": {
+						"textures": "calcite",
+						"sound": "stone"
+					},
+					"cscaves:tuff": {
+						"textures": "tuff",
+						"sound": "stone"
+					},
+					"cscaves:small_amethyst_bud": {
+						"textures": "small_amethyst_bud"
+					},
+					"cscaves:medium_amethyst_bud": {
+						"textures": "medium_amethyst_bud"
+					},
+					"cscaves:large_amethyst_bud": {
+						"textures": "large_amethyst_bud"
+					},
+					"cscaves:amethyst_cluster": {
+						"textures": "amethyst_cluster"
+					},
+					"cscaves:budding_amethyst": {
+						"textures": {
+							"up": "budding_amethyst",
+							"down": "amethyst_block",
+							"side": "amethyst_block"
+						}
+					},
+					"cscaves:amethyst_block": {
+						"textures": "amethyst_block"
+					},
+					"cscaves:azalea": {
+						"textures": "azalea",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea": {
+						"textures": "flowering_azalea",
+						"sound": "grass"
+					},
+					"cscaves:azalea_leaves": {
+						"textures": "azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:flowering_azalea_leaves": {
+						"textures": "flowering_azalea_leaves",
+						"sound": "grass"
+					},
+					"cscaves:glow_lichen": {
+						"textures": "glow_lichen"
+					},
+					"cscaves:cave_vines_body": {
+						"textures": "cave_vines_body"
+					},
+					"cscaves:cave_vines_body_lit": {
+						"textures": "cave_vines_body_lit"
+					},
+					"cscaves:cave_vines_head": {
+						"textures": "cave_vines_head"
+					},
+					"cscaves:cave_vines_head_lit": {
+						"textures": "cave_vines_head_lit"
+					},
+					"cscaves:hanging_roots": {
+						"textures": "hanging_roots"
+					},
+					"cscaves:moss_carpet": {
+						"textures": "moss_block"
+					},
+					"cscaves:tinted_glass": {
+						"textures": "tinted_glass"
+					},
+					"cscaves:rooted_dirt": {
+						"textures": "rooted_dirt"
+					},
+					"cscaves:spyglass_block": {
+						"textures": "spyglass"
+					},
+					"cscaves:spore_blossom": {
+						"textures": "spore_blossom"
+					},
+					"cscaves:moss_block": {
+						"textures": "moss_block"
+					},
+					"cscaves:small_dripleaf_top": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:small_dripleaf_bottom": {
+						"textures": "small_dripleaf"
+					},
+					"cscaves:big_dripleaf": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_full_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_partial_tilt": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:big_dripleaf_stem": {
+						"textures": "big_dripleaf"
+					},
+					"cscaves:candle_xx": {
+						"textures": "candle"
+					},
+					"cscaves:convertor": {
+						"textures": "convertor",
+						"sound": "metal"
+					},
+					"cscaves:grimstone": {
+						"textures": "grimstone"
+					},
+					"cscaves:grimstone_bricks": {
+						"textures": "grimstone_bricks"
+					},
+					"cscaves:grimstone_chiseled": {
+						"textures": "grimstone_chiseled"
+					},
+					"cscaves:grimstone_polished": {
+						"textures": "grimstone_polished"
+					},
+					"cscaves:grimstone_tiles": {
+						"textures": "grimstone_tiles"
+					}
+				},
+				"key": "cscaves:grimstone_tiles",
+				"is_minified": true,
+				"children": {
+					"textures": "grimstone_tiles"
+				}
+			}
+		]
+	}
+}

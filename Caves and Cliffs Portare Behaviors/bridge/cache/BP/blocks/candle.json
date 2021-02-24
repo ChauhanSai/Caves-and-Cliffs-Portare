@@ -1,0 +1,505 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\blocks\\candle.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "36b89233_0fa6_4a16_a18d_1d6291ef15b4",
+	"file_version": 5,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cscaves:candle"
+						},
+						"components": {
+							"minecraft:destroy_time": 5,
+							"minecraft:block_light_absorption": 1,
+							"minecraft:block_light_emission": 0.5,
+							"minecraft:geometry": "geometry.template_candle",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "candle",
+									"render_method": "blend"
+								}
+							},
+							"minecraft:pick_collision": {
+								"origin": [
+									-1,
+									0,
+									-1
+								],
+								"size": [
+									2,
+									7,
+									2
+								]
+							},
+							"minecraft:entity_collision": {
+								"origin": [
+									-1,
+									0,
+									-1
+								],
+								"size": [
+									2,
+									7,
+									2
+								]
+							},
+							"minecraft:placement_filter": {
+								"conditions": [
+									{
+										"allowed_faces": [
+											"up"
+										]
+									}
+								]
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:candle"
+							},
+							"components": {
+								"minecraft:destroy_time": 5,
+								"minecraft:block_light_absorption": 1,
+								"minecraft:block_light_emission": 0.5,
+								"minecraft:geometry": "geometry.template_candle",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "candle",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:pick_collision": {
+									"origin": [
+										-1,
+										0,
+										-1
+									],
+									"size": [
+										2,
+										7,
+										2
+									]
+								},
+								"minecraft:entity_collision": {
+									"origin": [
+										-1,
+										0,
+										-1
+									],
+									"size": [
+										2,
+										7,
+										2
+									]
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"allowed_faces": [
+												"up"
+											]
+										}
+									]
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:candle"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:candle"
+							},
+							"components": {
+								"minecraft:destroy_time": 5,
+								"minecraft:block_light_absorption": 1,
+								"minecraft:block_light_emission": 0.5,
+								"minecraft:geometry": "geometry.template_candle",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "candle",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:pick_collision": {
+									"origin": [
+										-1,
+										0,
+										-1
+									],
+									"size": [
+										2,
+										7,
+										2
+									]
+								},
+								"minecraft:entity_collision": {
+									"origin": [
+										-1,
+										0,
+										-1
+									],
+									"size": [
+										2,
+										7,
+										2
+									]
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"allowed_faces": [
+												"up"
+											]
+										}
+									]
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "5",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"data": "1",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"data": "0.5",
+								"key": "minecraft:block_light_emission"
+							},
+							{
+								"data": "geometry.template_candle",
+								"key": "minecraft:geometry"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 5,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:block_light_emission": 0.5,
+									"minecraft:geometry": "geometry.template_candle",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "candle",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-1,
+											0,
+											-1
+										],
+										"size": [
+											2,
+											7,
+											2
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											-1,
+											0,
+											-1
+										],
+										"size": [
+											2,
+											7,
+											2
+										]
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"allowed_faces": [
+													"up"
+												]
+											}
+										]
+									}
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "candle",
+												"render_method": "blend"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "candle",
+											"render_method": "blend"
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 5,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:block_light_emission": 0.5,
+									"minecraft:geometry": "geometry.template_candle",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "candle",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-1,
+											0,
+											-1
+										],
+										"size": [
+											2,
+											7,
+											2
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											-1,
+											0,
+											-1
+										],
+										"size": [
+											2,
+											7,
+											2
+										]
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"allowed_faces": [
+													"up"
+												]
+											}
+										]
+									}
+								},
+								"key": "minecraft:pick_collision",
+								"children": [
+									{
+										"open": {
+											"origin": [
+												-1,
+												0,
+												-1
+											],
+											"size": [
+												2,
+												7,
+												2
+											]
+										},
+										"key": "origin",
+										"is_minified": true,
+										"children": [
+											-1,
+											0,
+											-1
+										]
+									},
+									{
+										"open": {
+											"origin": [
+												-1,
+												0,
+												-1
+											],
+											"size": [
+												2,
+												7,
+												2
+											]
+										},
+										"key": "size",
+										"is_minified": true,
+										"children": [
+											2,
+											7,
+											2
+										]
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 5,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:block_light_emission": 0.5,
+									"minecraft:geometry": "geometry.template_candle",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "candle",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-1,
+											0,
+											-1
+										],
+										"size": [
+											2,
+											7,
+											2
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											-1,
+											0,
+											-1
+										],
+										"size": [
+											2,
+											7,
+											2
+										]
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"allowed_faces": [
+													"up"
+												]
+											}
+										]
+									}
+								},
+								"key": "minecraft:entity_collision",
+								"is_minified": true,
+								"children": {
+									"origin": [
+										-1,
+										0,
+										-1
+									],
+									"size": [
+										2,
+										7,
+										2
+									]
+								}
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 5,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:block_light_emission": 0.5,
+									"minecraft:geometry": "geometry.template_candle",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "candle",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-1,
+											0,
+											-1
+										],
+										"size": [
+											2,
+											7,
+											2
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											-1,
+											0,
+											-1
+										],
+										"size": [
+											2,
+											7,
+											2
+										]
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"allowed_faces": [
+													"up"
+												]
+											}
+										]
+									}
+								},
+								"key": "minecraft:placement_filter",
+								"children": [
+									{
+										"open": {
+											"conditions": [
+												{
+													"allowed_faces": [
+														"up"
+													]
+												}
+											]
+										},
+										"key": "conditions",
+										"children": [
+											{
+												"open": [
+													{
+														"allowed_faces": [
+															"up"
+														]
+													}
+												],
+												"children": [
+													{
+														"open": {
+															"allowed_faces": [
+																"up"
+															]
+														},
+														"key": "allowed_faces",
+														"is_minified": true,
+														"children": [
+															"up"
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

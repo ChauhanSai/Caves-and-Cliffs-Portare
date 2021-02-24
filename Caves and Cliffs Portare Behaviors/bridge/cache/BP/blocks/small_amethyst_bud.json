@@ -1,0 +1,620 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\blocks\\small_amethyst_bud.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "4aa32f10_03ec_441a_b7f5_fb1d85e339a5",
+	"file_version": 7,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cscaves:small_amethyst_bud"
+						},
+						"components": {
+							"minecraft:destroy_time": 3,
+							"minecraft:friction": 0.7,
+							"minecraft:geometry": "geometry.cross",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "small_amethyst_bud",
+									"render_method": "blend"
+								}
+							},
+							"minecraft:map_color": "#8867c4",
+							"minecraft:entity_collision": false,
+							"minecraft:block_light_absorption": 1,
+							"minecraft:ticking": {
+								"looping": true,
+								"range": [
+									600,
+									1200
+								],
+								"on_tick": {
+									"event": "cscaves:grow",
+									"target": "self"
+								}
+							},
+							"minecraft:placement_filter": {
+								"conditions": [
+									{
+										"block_filter": [
+											"cscaves:amethyst_block",
+											"cscaves:budding_amethyst"
+										]
+									}
+								]
+							}
+						},
+						"events": {
+							"cscaves:grow": {
+								"run_command": {
+									"command": [
+										"setblock ~ ~ ~ cscaves:medium_amethyst_bud"
+									]
+								}
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:small_amethyst_bud"
+							},
+							"components": {
+								"minecraft:destroy_time": 3,
+								"minecraft:friction": 0.7,
+								"minecraft:geometry": "geometry.cross",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "small_amethyst_bud",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:map_color": "#8867c4",
+								"minecraft:entity_collision": false,
+								"minecraft:block_light_absorption": 1,
+								"minecraft:ticking": {
+									"looping": true,
+									"range": [
+										600,
+										1200
+									],
+									"on_tick": {
+										"event": "cscaves:grow",
+										"target": "self"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"block_filter": [
+												"cscaves:amethyst_block",
+												"cscaves:budding_amethyst"
+											]
+										}
+									]
+								}
+							},
+							"events": {
+								"cscaves:grow": {
+									"run_command": {
+										"command": [
+											"setblock ~ ~ ~ cscaves:medium_amethyst_bud"
+										]
+									}
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:small_amethyst_bud"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:small_amethyst_bud"
+							},
+							"components": {
+								"minecraft:destroy_time": 3,
+								"minecraft:friction": 0.7,
+								"minecraft:geometry": "geometry.cross",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "small_amethyst_bud",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:map_color": "#8867c4",
+								"minecraft:entity_collision": false,
+								"minecraft:block_light_absorption": 1,
+								"minecraft:ticking": {
+									"looping": true,
+									"range": [
+										600,
+										1200
+									],
+									"on_tick": {
+										"event": "cscaves:grow",
+										"target": "self"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"block_filter": [
+												"cscaves:amethyst_block",
+												"cscaves:budding_amethyst"
+											]
+										}
+									]
+								}
+							},
+							"events": {
+								"cscaves:grow": {
+									"run_command": {
+										"command": [
+											"setblock ~ ~ ~ cscaves:medium_amethyst_bud"
+										]
+									}
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "3",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"data": "0.7",
+								"key": "minecraft:friction"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.cross",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "small_amethyst_bud",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:map_color": "#8867c4",
+									"minecraft:entity_collision": false,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:ticking": {
+										"looping": true,
+										"range": [
+											600,
+											1200
+										],
+										"on_tick": {
+											"event": "cscaves:grow",
+											"target": "self"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"cscaves:amethyst_block",
+													"cscaves:budding_amethyst"
+												]
+											}
+										]
+									}
+								},
+								"data": "geometry.cross",
+								"key": "minecraft:geometry"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.cross",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "small_amethyst_bud",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:map_color": "#8867c4",
+									"minecraft:entity_collision": false,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:ticking": {
+										"looping": true,
+										"range": [
+											600,
+											1200
+										],
+										"on_tick": {
+											"event": "cscaves:grow",
+											"target": "self"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"cscaves:amethyst_block",
+													"cscaves:budding_amethyst"
+												]
+											}
+										]
+									}
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "small_amethyst_bud",
+												"render_method": "blend"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "small_amethyst_bud",
+											"render_method": "blend"
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.cross",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "small_amethyst_bud",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:map_color": "#8867c4",
+									"minecraft:entity_collision": false,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:ticking": {
+										"looping": true,
+										"range": [
+											600,
+											1200
+										],
+										"on_tick": {
+											"event": "cscaves:grow",
+											"target": "self"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"cscaves:amethyst_block",
+													"cscaves:budding_amethyst"
+												]
+											}
+										]
+									}
+								},
+								"data": "#8867c4",
+								"key": "minecraft:map_color"
+							},
+							{
+								"data": "false",
+								"key": "minecraft:entity_collision"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.cross",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "small_amethyst_bud",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:map_color": "#8867c4",
+									"minecraft:entity_collision": false,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:ticking": {
+										"looping": true,
+										"range": [
+											600,
+											1200
+										],
+										"on_tick": {
+											"event": "cscaves:grow",
+											"target": "self"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"cscaves:amethyst_block",
+													"cscaves:budding_amethyst"
+												]
+											}
+										]
+									}
+								},
+								"data": "1",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.cross",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "small_amethyst_bud",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:map_color": "#8867c4",
+									"minecraft:entity_collision": false,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:ticking": {
+										"looping": true,
+										"range": [
+											600,
+											1200
+										],
+										"on_tick": {
+											"event": "cscaves:grow",
+											"target": "self"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"cscaves:amethyst_block",
+													"cscaves:budding_amethyst"
+												]
+											}
+										]
+									}
+								},
+								"key": "minecraft:ticking",
+								"children": [
+									{
+										"data": "true",
+										"key": "looping"
+									},
+									{
+										"open": {
+											"looping": true,
+											"range": [
+												600,
+												1200
+											],
+											"on_tick": {
+												"event": "cscaves:grow",
+												"target": "self"
+											}
+										},
+										"key": "range",
+										"is_minified": true,
+										"children": [
+											600,
+											1200
+										]
+									},
+									{
+										"open": {
+											"looping": true,
+											"range": [
+												600,
+												1200
+											],
+											"on_tick": {
+												"event": "cscaves:grow",
+												"target": "self"
+											}
+										},
+										"key": "on_tick",
+										"is_minified": true,
+										"children": {
+											"event": "cscaves:grow",
+											"target": "self"
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 3,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.cross",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "small_amethyst_bud",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:map_color": "#8867c4",
+									"minecraft:entity_collision": false,
+									"minecraft:block_light_absorption": 1,
+									"minecraft:ticking": {
+										"looping": true,
+										"range": [
+											600,
+											1200
+										],
+										"on_tick": {
+											"event": "cscaves:grow",
+											"target": "self"
+										}
+									},
+									"minecraft:placement_filter": {
+										"conditions": [
+											{
+												"block_filter": [
+													"cscaves:amethyst_block",
+													"cscaves:budding_amethyst"
+												]
+											}
+										]
+									}
+								},
+								"key": "minecraft:placement_filter",
+								"children": [
+									{
+										"open": {
+											"conditions": [
+												{
+													"block_filter": [
+														"cscaves:amethyst_block",
+														"cscaves:budding_amethyst"
+													]
+												}
+											]
+										},
+										"key": "conditions",
+										"children": [
+											{
+												"open": [
+													{
+														"block_filter": [
+															"cscaves:amethyst_block",
+															"cscaves:budding_amethyst"
+														]
+													}
+												],
+												"children": [
+													{
+														"open": {
+															"block_filter": [
+																"cscaves:amethyst_block",
+																"cscaves:budding_amethyst"
+															]
+														},
+														"key": "block_filter",
+														"is_minified": true,
+														"children": [
+															"cscaves:amethyst_block",
+															"cscaves:budding_amethyst"
+														]
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:small_amethyst_bud"
+							},
+							"components": {
+								"minecraft:destroy_time": 3,
+								"minecraft:friction": 0.7,
+								"minecraft:geometry": "geometry.cross",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "small_amethyst_bud",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:map_color": "#8867c4",
+								"minecraft:entity_collision": false,
+								"minecraft:block_light_absorption": 1,
+								"minecraft:ticking": {
+									"looping": true,
+									"range": [
+										600,
+										1200
+									],
+									"on_tick": {
+										"event": "cscaves:grow",
+										"target": "self"
+									}
+								},
+								"minecraft:placement_filter": {
+									"conditions": [
+										{
+											"block_filter": [
+												"cscaves:amethyst_block",
+												"cscaves:budding_amethyst"
+											]
+										}
+									]
+								}
+							},
+							"events": {
+								"cscaves:grow": {
+									"run_command": {
+										"command": [
+											"setblock ~ ~ ~ cscaves:medium_amethyst_bud"
+										]
+									}
+								}
+							}
+						},
+						"key": "events",
+						"children": [
+							{
+								"open": {
+									"cscaves:grow": {
+										"run_command": {
+											"command": [
+												"setblock ~ ~ ~ cscaves:medium_amethyst_bud"
+											]
+										}
+									}
+								},
+								"key": "cscaves:grow",
+								"children": [
+									{
+										"open": {
+											"run_command": {
+												"command": [
+													"setblock ~ ~ ~ cscaves:medium_amethyst_bud"
+												]
+											}
+										},
+										"key": "run_command",
+										"children": [
+											{
+												"open": {
+													"command": [
+														"setblock ~ ~ ~ cscaves:medium_amethyst_bud"
+													]
+												},
+												"key": "command",
+												"is_minified": true,
+												"children": [
+													"setblock ~ ~ ~ cscaves:medium_amethyst_bud"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,149 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\blocks\\flowering_azalea_leaves.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "fca9e083_e856_4231_9e4c_7341c8db2c8d",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cscaves:flowering_azalea_leaves"
+						},
+						"components": {
+							"minecraft:destroy_time": 5,
+							"minecraft:map_color": "#677e30",
+							"minecraft:block_light_absorption": 1,
+							"minecraft:friction": 0.7,
+							"minecraft:geometry": "geometry.cube",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "flowering_azalea_leaves",
+									"render_method": "blend"
+								}
+							},
+							"minecraft:loot": "loot_tables/empty.json"
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:flowering_azalea_leaves"
+							},
+							"components": {
+								"minecraft:destroy_time": 5,
+								"minecraft:map_color": "#677e30",
+								"minecraft:block_light_absorption": 1,
+								"minecraft:friction": 0.7,
+								"minecraft:geometry": "geometry.cube",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "flowering_azalea_leaves",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:loot": "loot_tables/empty.json"
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:flowering_azalea_leaves"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:flowering_azalea_leaves"
+							},
+							"components": {
+								"minecraft:destroy_time": 5,
+								"minecraft:map_color": "#677e30",
+								"minecraft:block_light_absorption": 1,
+								"minecraft:friction": 0.7,
+								"minecraft:geometry": "geometry.cube",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "flowering_azalea_leaves",
+										"render_method": "blend"
+									}
+								},
+								"minecraft:loot": "loot_tables/empty.json"
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "5",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"data": "#677e30",
+								"key": "minecraft:map_color"
+							},
+							{
+								"data": "1",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"data": "0.7",
+								"key": "minecraft:friction"
+							},
+							{
+								"data": "geometry.cube",
+								"key": "minecraft:geometry"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 5,
+									"minecraft:map_color": "#677e30",
+									"minecraft:block_light_absorption": 1,
+									"minecraft:friction": 0.7,
+									"minecraft:geometry": "geometry.cube",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "flowering_azalea_leaves",
+											"render_method": "blend"
+										}
+									},
+									"minecraft:loot": "loot_tables/empty.json"
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "flowering_azalea_leaves",
+												"render_method": "blend"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "flowering_azalea_leaves",
+											"render_method": "blend"
+										}
+									}
+								]
+							},
+							{
+								"data": "loot_tables/empty.json",
+								"key": "minecraft:loot"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

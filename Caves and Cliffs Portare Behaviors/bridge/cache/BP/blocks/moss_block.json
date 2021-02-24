@@ -1,0 +1,65 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\blocks\\moss_block.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "565c824f_0028_477b_86ff_e8baddec6610",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cscaves:moss_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 7,
+							"minecraft:map_color": "#5b702e"
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:moss_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 7,
+								"minecraft:map_color": "#5b702e"
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:moss_block"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:moss_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 7,
+								"minecraft:map_color": "#5b702e"
+							}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 7,
+							"minecraft:map_color": "#5b702e"
+						}
+					}
+				]
+			}
+		]
+	}
+}

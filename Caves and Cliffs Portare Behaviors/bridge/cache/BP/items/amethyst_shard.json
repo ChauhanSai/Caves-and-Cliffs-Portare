@@ -1,0 +1,120 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Caves and Cliffs Portare\\items\\amethyst_shard.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "3cd70bca_b45f_4734_ac0e_eca6cfaf1792",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "cscaves:amethyst_shard"
+						},
+						"components": {
+							"minecraft:icon": {
+								"texture": "amethyst_shard"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.diamond"
+							}
+						}
+					}
+				},
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "cscaves:amethyst_shard"
+						},
+						"components": {
+							"minecraft:icon": {
+								"texture": "amethyst_shard"
+							},
+							"minecraft:creative_category": {
+								"parent": "itemGroup.name.diamond"
+							}
+						}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:amethyst_shard"
+							},
+							"components": {
+								"minecraft:icon": {
+									"texture": "amethyst_shard"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.diamond"
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cscaves:amethyst_shard"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cscaves:amethyst_shard"
+							},
+							"components": {
+								"minecraft:icon": {
+									"texture": "amethyst_shard"
+								},
+								"minecraft:creative_category": {
+									"parent": "itemGroup.name.diamond"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:icon": {
+										"texture": "amethyst_shard"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.diamond"
+									}
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "amethyst_shard"
+								}
+							},
+							{
+								"open": {
+									"minecraft:icon": {
+										"texture": "amethyst_shard"
+									},
+									"minecraft:creative_category": {
+										"parent": "itemGroup.name.diamond"
+									}
+								},
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"parent": "itemGroup.name.diamond"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

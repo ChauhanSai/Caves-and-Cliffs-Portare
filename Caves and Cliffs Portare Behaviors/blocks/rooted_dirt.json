@@ -1,0 +1,14 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:rooted_dirt"
+		},
+		"components": {
+			"minecraft:destroy_time": 5,
+			"minecraft:map_color": "#946b51"
+		},
+		"events": {}
+	}
+}

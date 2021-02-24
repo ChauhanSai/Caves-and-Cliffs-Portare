@@ -1,0 +1,33 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:cave_vines_head"
+		},
+		"components": {
+			"minecraft:geometry": "geometry.cross",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "cave_vines_head",
+					"render_method": "blend"
+				}
+			},
+			"minecraft:map_color": "#5a6a28",
+			"minecraft:block_light_absorption": 1,
+			"minecraft:destroy_time": 3,
+			"minecraft:entity_collision": false,
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"allowed_faces": [
+							"down"
+						]
+					}
+				]
+			},
+			"minecraft:loot": "loot_tables/empty.json"
+		},
+		"events": {}
+	}
+}

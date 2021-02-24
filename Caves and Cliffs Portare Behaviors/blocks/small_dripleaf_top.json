@@ -1,0 +1,31 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cscaves:small_dripleaf_top"
+		},
+		"components": {
+			"minecraft:destroy_time": 3,
+			"minecraft:block_light_absorption": 1,
+			"minecraft:map_color": "#617a2e",
+			"minecraft:placement_filter": {
+				"conditions": [
+					{
+						"allowed_faces": [
+							"up"
+						]
+					}
+				]
+			},
+			"minecraft:geometry": "geometry.small_dripleaf_top",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "small_dripleaf",
+					"render_method": "blend"
+				}
+			}
+		},
+		"events": {}
+	}
+}
