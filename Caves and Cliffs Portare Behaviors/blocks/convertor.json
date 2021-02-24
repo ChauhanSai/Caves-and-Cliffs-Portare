@@ -1,4 +1,4 @@
-//bridge-file-version: #4
+//bridge-file-version: #8
 {
 	"format_version": "1.16.100",
 	"minecraft:block": {
@@ -23,8 +23,15 @@
 					{
 						"run_command": {
 							"command": [
-								"say Converting §kWIP",
-								"//fill ~15 ~16 ~15 ~-15 ~-16 ~-15 dirt 0 replace grass"
+								"say Converting §8Grimstone",
+								"//fill ~15 ~16 ~15 ~-15 ~-16 ~-15 cscaves:deepslate 0 replace cscaves:grimstone"
+							]
+						}
+					},
+					{
+						"run_command": {
+							"command": [
+								"setblock ~ ~ ~ air 0 replace cscaves:convertor"
 							]
 						}
 					}

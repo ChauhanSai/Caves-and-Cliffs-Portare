@@ -112,19 +112,44 @@
 		"textures": "convertor",
 		"sound": "metal"
 	},
-	"cscaves:grimstone": {
-		"textures": "grimstone"
+	"cscaves:deepslate": {
+		"textures": {
+			"up": "deepslate_top",
+			"down": "deepslate_top",
+			"side": "deepslate"
+		}
 	},
-	"cscaves:grimstone_bricks": {
-		"textures": "grimstone_bricks"
+	"cscaves:deepslate_cobbled": {
+		"textures": "deepslate"
 	},
-	"cscaves:grimstone_chiseled": {
-		"textures": "grimstone_chiseled"
+	"cscaves:deepslate_bricks": {
+		"textures": "deepslate_bricks"
 	},
-	"cscaves:grimstone_polished": {
-		"textures": "grimstone_polished"
+	"cscaves:deepslate_chiseled": {
+		"textures": "deepslate_chiseled"
 	},
-	"cscaves:grimstone_tiles": {
-		"textures": "grimstone_tiles"
+	"cscaves:deepslate_polished": {
+		"textures": "deepslate_polished"
+	},
+	"cscaves:deepslate_tiles": {
+		"textures": "deepslate_tiles"
+	},
+	"cscaves:deepslate_diamond_ore": {
+		"textures": "deepslate_diamond_ore"
+	},
+	"cscaves:deepslate_gold_ore": {
+		"textures": "deepslate_gold_ore"
+	},
+	"cscaves:deepslate_iron_ore": {
+		"textures": "deepslate_iron_ore"
+	},
+	"cscaves:deepslate_lapis_ore": {
+		"textures": "deepslate_lapis_ore"
+	},
+	"cscaves:deepslate_redstone_ore": {
+		"textures": "deepslate_redstone_ore"
+	},
+	"cscaves:smooth_basalt": {
+		"textures": "smooth_basalt"
 	}
 }

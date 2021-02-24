@@ -3,7 +3,7 @@
 	"format_version": "1.16.100",
 	"minecraft:block": {
 		"description": {
-			"identifier": "cscaves:grimstone_bricks"
+			"identifier": "cscaves:deepslate_redstone_ore"
 		},
 		"components": {
 			"minecraft:map_color": "#4c4c4c",

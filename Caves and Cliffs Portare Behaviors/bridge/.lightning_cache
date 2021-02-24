@@ -120,12 +120,12 @@
 			"identifiers": [
 				"cscaves:glow_lichen"
 			],
-			"events": [],
+			"events": [
+				"bridge:update_rotation"
+			],
 			"recipe_tags": [],
 			"custom_commands": [],
-			"custom_components": [
-				"bridge:rotate_y_on_place"
-			]
+			"custom_components": []
 		},
 		"BP/blocks/cave_vines_body.json": {
 			"identifiers": [
@@ -353,7 +353,8 @@
 		"64507ae4_6ade_48e3_91cc_51b2a74fb8d2": {},
 		"23b07d0a_f7d7_41ab_a762_38ced38e3a4a": {},
 		"3d5b58d4_1e3f_494d_946b_21b4ba59f0c5": {},
-		"dea286da_2d49_4310_bf0c_4f73bda3dee9": {}
+		"dea286da_2d49_4310_bf0c_4f73bda3dee9": {},
+		"decba687_e1b5_4f60_afbf_919b551de1c1": {}
 	},
 	"entity": {
 		"BP/entities/player.json": {

@@ -1,6 +1,6 @@
-##bridge-file-version: #7
+##bridge-file-version: #8
 pack.name=Caves and Cliffs Portare
-pack.description=§o21w07a §rPort of all the 1.17 Java Edition Snapshot features missing from the Bedrock Edition BETAs
+pack.description=§o21w08a §rPort of all the 1.17 Java Edition Snapshot features missing from the Bedrock Edition BETAs
 tile.cscaves:calcite.name=Calcite
 tile.cscaves:tuff.name=Tuff
 tile.cscaves:small_amethyst_bud.name=Small Amethyst Bud
@@ -105,8 +105,15 @@ item.cscaves:glow_berries=Glow Berries
 item.cscaves:spyglass=Spyglass
 entity.cscaves:axoltol.name=Axoltol
 item.spawn_egg.entity.cscaves:axoltol.name=Spawn Axoltol
-tile.cscaves:grimstone.name=Grimstone
-tile.cscaves:grimstone_bricks.name=Grimstone Bricks
-tile.cscaves:grimstone_chiseled.name=Chiseled Grimstone
-tile.cscaves:grimstone_polished.name=Polished Grimstone
-tile.cscaves:grimstone_tiles.name=Grimstone Tiles
+tile.cscaves:deepslate.name=Deepslate
+tile.cscaves:deepslate_cobbled.name=Cobbled Deepslate
+tile.cscaves:deepslate_bricks.name=Deepslate Bricks
+tile.cscaves:deepslate_chiseled.name=Chiseled Deepslate
+tile.cscaves:deepslate_polished.name=Polished Deepslate
+tile.cscaves:deepslate_tiles.name=Deepslate Tiles
+tile.cscaves:deepslate_diamond_ore.name=Deepslate Diamond Ore
+tile.cscaves:deepslate_gold_ore.name=Deepslate Gold Ore
+tile.cscaves:deepslate_iron_ore.name=Deepslate Iron Ore
+tile.cscaves:deepslate_lapis_ore.name=Deepslate Lapis Ore
+tile.cscaves:deepslate_redstone_ore.name=Deepslate Redstone Ore
+tile.cscaves:smooth_basalt.name=Smooth Basalt

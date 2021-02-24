@@ -134,20 +134,42 @@
 		"convertor": {
 			"textures": "textures/blocks/convertor"
 		},
-		"grimstone": {
-			"textures": "textures/blocks/grimstone"
+		"deepslate": {
+			"textures": "textures/blocks/deepslate"
 		},
-		"grimstone_bricks": {
-			"textures": "textures/blocks/grimstone_bricks"
+		"deepslate_top": {
+			"textures": "textures/blocks/deepslate_top"
 		},
-		"grimstone_chiseled": {
-			"textures": "textures/blocks/grimstone_chiseled"
+		"deepslate_bricks": {
+			"textures": "textures/blocks/deepslate_bricks"
 		},
-		"grimstone_polished": {
-			"textures": "textures/blocks/grimstone_polished"
+		"deepslate_chiseled": {
+			"textures": "textures/blocks/deepslate_chiseled"
 		},
-		"grimstone_tiles": {
-			"textures": "textures/blocks/grimstone_tiles"
+		"deepslate_polished": {
+			"textures": "textures/blocks/deepslate_polished"
+		},
+		"deepslate_tiles": {
+			"textures": "textures/blocks/deepslate_tiles"
+		},
+		"deepslate_diamond_ore": {
+			"textures": "textures/blocks/deepslate_diamond_ore"
+		},
+		"deepslate_gold_ore": {
+			"textures": "textures/blocks/deepslate_gold_ore"
+		},
+		"deepslate_iron_ore": {
+			"textures": "textures/blocks/deepslate_iron_ore"
+		},
+		"deepslate_lapis_ore": {
+			"textures": "textures/blocks/deepslate_lapis_ore"
+		},
+		"deepslate_redstone_ore": {
+			"textures": "textures/blocks/deepslate_redstone_ore"
+		},
+		"smooth_basalt": {
+			"textures": "textures/blocks/smooth_basalt"
 		}
+		
 	}
 }

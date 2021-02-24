@@ -3,7 +3,7 @@
 	"format_version": "1.16.100",
 	"minecraft:block": {
 		"description": {
-			"identifier": "cscaves:grimstone"
+			"identifier": "cscaves:deepslate_polished"
 		},
 		"components": {
 			"minecraft:map_color": "#4c4c4c",
