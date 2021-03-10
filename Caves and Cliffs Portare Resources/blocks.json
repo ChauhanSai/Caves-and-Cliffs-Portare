@@ -1,4 +1,4 @@
-//bridge-file-version: #13
+//bridge-file-version: #16
 {
 	"format_version": [
 		1,
@@ -125,6 +125,9 @@
 	"cscaves:deepslate_bricks": {
 		"textures": "deepslate_bricks"
 	},
+	"cscaves:deepslate_bricks_cracked": {
+		"textures": "deepslate_bricks_cracked"
+	},
 	"cscaves:deepslate_chiseled": {
 		"textures": "deepslate_chiseled"
 	},
@@ -133,6 +136,9 @@
 	},
 	"cscaves:deepslate_tiles": {
 		"textures": "deepslate_tiles"
+	},
+	"cscaves:deepslate_tiles_cracked": {
+		"textures": "deepslate_tiles_cracked"
 	},
 	"cscaves:deepslate_diamond_ore": {
 		"textures": "deepslate_diamond_ore"
@@ -148,6 +154,15 @@
 	},
 	"cscaves:deepslate_redstone_ore": {
 		"textures": "deepslate_redstone_ore"
+	},
+	"cscaves:deepslate_copper_ore": {
+		"textures": "deepslate_copper_ore"
+	},
+	"cscaves:deepslate_coal_ore": {
+		"textures": "deepslate_coal_ore"
+	},
+	"cscaves:deepslate_emerald_ore": {
+		"textures": "deepslate_emerald_ore"
 	},
 	"cscaves:smooth_basalt": {
 		"textures": "smooth_basalt"

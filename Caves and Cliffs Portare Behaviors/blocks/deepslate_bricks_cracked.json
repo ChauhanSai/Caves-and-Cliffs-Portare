@@ -1,9 +1,9 @@
-//bridge-file-version: #5
+//bridge-file-version: #3
 {
 	"format_version": "1.16.100",
 	"minecraft:block": {
 		"description": {
-			"identifier": "cscaves:deepslate"
+			"identifier": "cscaves:deepslate_bricks_cracked"
 		},
 		"components": {
 			"minecraft:map_color": "#4c4c4c",

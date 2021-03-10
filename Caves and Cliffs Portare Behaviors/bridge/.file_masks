@@ -196,5 +196,23 @@
 	},
 	"BP/items/item_amethyst_block.json": {
 		"data": {}
+	},
+	"BP/blocks/deepslate_copper_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/deepslate_coal_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/deepslate_emerald_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/deepslate_bricks_cracked.json": {
+		"data": {}
+	},
+	"BP/blocks/deepslate.json": {
+		"data": {}
+	},
+	"BP/blocks/deepslate_tiles_cracked.json": {
+		"data": {}
 	}
 }

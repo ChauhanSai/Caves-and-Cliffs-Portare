@@ -338,6 +338,60 @@
 			"recipe_tags": [],
 			"custom_commands": [],
 			"custom_components": []
+		},
+		"BP/blocks/deepslate_copper_ore.json": {
+			"identifiers": [
+				"cscaves:deepslate_copper_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/deepslate_coal_ore.json": {
+			"identifiers": [
+				"cscaves:deepslate_emerald_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/deepslate_emerald_ore.json": {
+			"identifiers": [
+				"cscaves:deepslate_emerald_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/deepslate_bricks_cracked.json": {
+			"identifiers": [
+				"cscaves:deepslate_bricks_cracked"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/deepslate.json": {
+			"identifiers": [
+				"cscaves:deepslate"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/deepslate_tiles_cracked.json": {
+			"identifiers": [
+				"cscaves:deepslate_tiles_cracked"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
 		}
 	},
 	"function": {

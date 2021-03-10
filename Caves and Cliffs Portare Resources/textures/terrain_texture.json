@@ -1,4 +1,4 @@
-//bridge-file-version: #12
+//bridge-file-version: #13
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -143,14 +143,20 @@
 		"deepslate_bricks": {
 			"textures": "textures/blocks/deepslate_bricks"
 		},
+		"deepslate_bricks_cracked": {
+			"textures": "textures/blocks/cracked_deepslate_bricks"
+		},
 		"deepslate_chiseled": {
-			"textures": "textures/blocks/deepslate_chiseled"
+			"textures": "textures/blocks/chiseled_deepslate"
 		},
 		"deepslate_polished": {
-			"textures": "textures/blocks/deepslate_polished"
+			"textures": "textures/blocks/polished_deepslate"
 		},
 		"deepslate_tiles": {
 			"textures": "textures/blocks/deepslate_tiles"
+		},
+		"deepslate_tiles_cracked": {
+			"textures": "textures/blocks/cracked_deepslate_tiles"
 		},
 		"deepslate_diamond_ore": {
 			"textures": "textures/blocks/deepslate_diamond_ore"
@@ -166,6 +172,15 @@
 		},
 		"deepslate_redstone_ore": {
 			"textures": "textures/blocks/deepslate_redstone_ore"
+		},
+		"deepslate_copper_ore": {
+			"textures": "textures/blocks/deepslate_copper_ore"
+		},
+		"deepslate_coal_ore": {
+			"textures": "textures/blocks/deepslate_coal_ore"
+		},
+		"deepslate_emerald_ore": {
+			"textures": "textures/blocks/deepslate_emerald_ore"
 		},
 		"smooth_basalt": {
 			"textures": "textures/blocks/smooth_basalt"
