@@ -1,2 +1,5 @@
 
 Snapshot Files/
+*.mcaddon
+*.mcpack
+*.ffs_gui

@@ -1,5 +1,5 @@
 # Caves-and-Cliffs-Portare
-#### A Minecraft Addon made with Javascript
+#### A Minecraft Addon made with JavaScript
 
 Port of all the 1.17 Java Edition Snapshot features missing from the Bedrock Edition BETAs
 
@@ -37,7 +37,8 @@ A conversion tool will be provided once Bedrock brings features to convert modde
 - Spore Blossom
 - Tinted Glass
 - Spyglass(Block)
-- Grimstone(+Varients)
+- Deepslate(+Varients)
+- Deepslate Ores
 > Use '/give' commands to obtain blocks for use
 
 > It is in debate whether to add slab, stair, and wall varients of Grimstone due to the incapability to create block aliases and would create 100+ seperate blocks
