@@ -17,13 +17,6 @@
 						]
 					}
 				]
-			},
-			"minecraft:geometry": "geometry.small_dripleaf_top",
-			"minecraft:material_instances": {
-				"*": {
-					"texture": "small_dripleaf",
-					"render_method": "blend"
-				}
 			}
 		},
 		"events": {}

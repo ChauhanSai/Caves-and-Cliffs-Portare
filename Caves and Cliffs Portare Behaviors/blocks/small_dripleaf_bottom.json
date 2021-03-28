@@ -18,13 +18,6 @@
 					}
 				]
 			},
-			"minecraft:geometry": "geometry.small_dripleaf_bottom",
-			"minecraft:material_instances": {
-				"*": {
-					"texture": "small_dripleaf",
-					"render_method": "blend"
-				}
-			},
 			"minecraft:entity_collision": false
 		},
 		"events": {}

@@ -1,4 +1,4 @@
-//bridge-file-version: #13
+//bridge-file-version: #14
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -28,18 +28,6 @@
 		},
 		"budding_amethyst": {
 			"textures": "textures/blocks/budding_amethyst"
-		},
-		"azalea": {
-			"textures": "textures/blocks/azalea"
-		},
-		"flowering_azalea": {
-			"textures": "textures/blocks/flowering_azalea"
-		},
-		"azalea_leaves": {
-			"textures": "textures/blocks/azalea_leaves"
-		},
-		"flowering_azalea_leaves": {
-			"textures": "textures/blocks/azalea_leaves_flowers"
 		},
 		"candle": {
 			"textures": "textures/blocks/candle"
@@ -104,27 +92,6 @@
 		"cave_vines_head_lit": {
 			"textures": "textures/blocks/cave_vines_head_lit"
 		},
-		"glow_lichen": {
-			"textures": "textures/blocks/glow_lichen"
-		},
-		"hanging_roots": {
-			"textures": "textures/blocks/hanging_roots"
-		},
-		"moss_block": {
-			"textures": "textures/blocks/moss_block"
-		},
-		"rooted_dirt": {
-			"textures": "textures/blocks/rooted_dirt"
-		},
-		"small_dripleaf": {
-			"textures": "textures/blocks/small_dripleaf"
-		},
-		"big_dripleaf": {
-			"textures": "textures/blocks/big_dripleaf"
-		},
-		"spore_blossom": {
-			"textures": "textures/blocks/spore_blossom"
-		},
 		"spyglass": {
 			"textures": "textures/blocks/spyglass"
 		},
@@ -184,7 +151,9 @@
 		},
 		"smooth_basalt": {
 			"textures": "textures/blocks/smooth_basalt"
+		},
+		"missing": {
+			"textures": "textures/misc/missing_texture"
 		}
-		
 	}
 }
